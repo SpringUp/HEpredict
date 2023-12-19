@@ -1,1 +1,0 @@
-python train_test_splitter.py --stained_tiles_home  /mnt/efs/fs1/from_local/col_tiles_cn/  --label_dir_path   ../data/colo_tmb_label509_classify20_as_label.csv   --divisionMethod halves     --isCrossValidation 5
